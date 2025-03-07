@@ -20,5 +20,6 @@ System.out.println(FunWith2DArrays.totalElements(testArr8));
 int[][] testArr9 = {{}};
 System.out.println(FunWith2DArrays.totalElements(testArr9));
 
+
     }
 }
